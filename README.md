@@ -1,3 +1,5 @@
+
+
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
@@ -11,6 +13,11 @@
 - 👨‍💻 Check out my personal portfolio : **<a href="https://oxygonal.vercel.app" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
+
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Oxygonal2-0&label=Profile%20views&color=0e75b6&style=flat" alt="Mayur Bansod" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -72,6 +79,8 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Oxygonal2-0&show_icons=true&theme=dark&locale=en" alt="Mayur Bansod" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oxygonal2-0&show_icons=true&theme=dark&locale=en&layout=compact" alt="Mayur Bansod" /></td>
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/mayurrajeshbansod?theme=wtf&font=Encode%20Sans%20Expanded&ext=heatmap)
+    <td></td>
   </tr>
 </table>
 
