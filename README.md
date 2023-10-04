@@ -79,8 +79,7 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Oxygonal2-0&show_icons=true&theme=dark&locale=en" alt="Mayur Bansod" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oxygonal2-0&show_icons=true&theme=dark&locale=en&layout=compact" alt="Mayur Bansod" /></td>
-    ![LeetCode Stats](https://leetcard.jacoblin.cool/mayurrajeshbansod?theme=wtf&font=Encode%20Sans%20Expanded&ext=heatmap)
-    <td></td>
+    <td> ![LeetCode Stats](https://leetcard.jacoblin.cool/mayurrajeshbansod?theme=wtf&font=Encode%20Sans%20Expanded&ext=heatmap) </td>
   </tr>
 </table>
 
